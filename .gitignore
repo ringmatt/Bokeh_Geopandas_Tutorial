@@ -1,0 +1,7 @@
+# Docs
+*.pdf
+*.doc
+*.docx
+
+# Data
+*.csv
