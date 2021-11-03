@@ -5,3 +5,14 @@
 
 # Data
 *.csv
+
+# Shapefiles
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.xml
+*.shx
+
+# Misc
+*.swp
